@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Dice Roller</title>
+        
+        <!--Include css file-->
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        
+        <!--Include Roboto font family-->
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        
+        <!--Include Courgette font family-->
+        <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+
+        
+        <!--Include FontAwesome icons-->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    </head>
+    
+    <body>
+        
+        <h1 class="mytitle">Dice Roller</h1>
+        <h6 class="copy">&copy; Copyright 2020, K. Thanos, All rights reserved</h6>
+        
+        <button class="prefer btn-max-score" onclick="winnerScore()">Winning Score</button>
+        <input type="number" name="win" id="win-score" placeholder="100" class="winning-score" onfocus="this.value=''"  autocomplete="off">
+        <button class="prefer btn-set-score" onclick="aboutScore()">Set</button>
+        
+        <button class="prefer btn-instructions" onclick="openTable()">Instructions</button>
+        <div class="details" id="instructions">
+            <h6>Instructions</h6>
+            <ul style="none">
+                <li>
+                    Set the player names by clicking on Player 1 and Player 2.
+                </li>
+                <li>
+                    Choose the disired winning score. If you don't, it will be set to 100 by default.
+                </li>
+                <li>
+                    Roll the dices and watch for the rules. Press the Hold button when you have to.
+                </li>
+                <li>
+                    A player looses his entire score when he rolls two 1's or two 6's.
+                </li>
+                <li>
+                    The first player who will reach the winning score is the winner.
+                </li>
+                <li>
+                    Game starts from Player 1 by default when the Roll button is pressed.
+                </li>
+                
+            </ul>
+            <button type="button" class="exit" onclick="closeTable()">&#10008;</button>
+        </div>
+        
+        <div class="container">
+            <div class="player-0-box active">
+                <div class="player-name" id="name-0">
+                    <button class="name-0-changer">Player 1 </button>
+                </div>
+                <div class="player-score" id="score-0">
+                    50
+                </div>
+                <div class="player-current-box">
+                    <div class="player-current-text">
+                        Current Score
+                    </div>
+                    <div class="player-current-score" id="current-0">
+                        11
+                    </div>
+                </div>
+            </div>
+            
+            <div class="player-1-box">
+                <div class="player-name" id="name-1">
+                    <button class="name-1-changer">Player 2</button>
+                </div>
+                <div class="player-score" id="score-1">
+                    40
+                </div>
+                <div class="player-current-box">
+                    <div class="player-current-text">
+                        Current Score
+                    </div>
+                    <div class="player-current-score" id="current-1">
+                        15
+                    </div>
+                </div>
+            </div>
+            
+            <button class="button btn-roll" onclick="validInput()">
+                Roll Dice
+            </button>
+            
+            <button class="button btn-hold">
+                Hold
+            </button> 
+            
+            <button class="button btn-new" onclick="window.location.reload()">
+                New Game
+            </button>
+            
+            <img src="css/img/dice-5.png" alt="dice1" class="first-dice dices">
+            <img src="css/img/dice-6.png" alt="dice2" class="second-dice dices">
+            
+            <div class="winner">
+                First to
+                <div id="wscore">0</div>
+            </div>    
+        </div>
+            
+        <!--Include js file-->
+        <script src="css/script.js"></script>
+    </body>
+</html>
