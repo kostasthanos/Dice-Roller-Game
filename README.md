@@ -34,12 +34,12 @@ Looking at the picture below which is the mainpage of the game there are some op
 5. #### The active player has a gray background. This player rolls the dice and continues to roll until the desired winning score is reached. If he rolls two 1's or two 6's then he loses his turn and at the same time loses the score he has won so far. To avoid this, he should press the **HOLD** button and hold the current scoring.  
 
 
-5. The first player who will reach the winning score is the winner.  
+5. #### The first player who will reach the winning score is the winner.  
 
 If the screen is smaller or user wants to make it smaller then the mainpage takes some of the following forms.  
 <p align="center">
-  <img width="300" height="250" src="imgs/smaller_1.png">
-  <img width="300" height="250" src="imgs/smaller_2.png">
+  <img width="500" height="350" src="imgs/smaller_1.png">
+  <img width="500" height="350" src="imgs/smaller_2.png">
 </p>
 
 ## Author
