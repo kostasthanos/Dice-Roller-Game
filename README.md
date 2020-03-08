@@ -36,6 +36,12 @@ Looking at the picture below which is the mainpage of the game there are some op
 
 5. #### The first player who will reach the winning score is the winner.  
 
+Below we can see 2 photos. One is during the game and the other one is when Player2 has already won.
+<p align="center">
+  <img src="imgs/playing.png">
+  <img src="imgs/winner.png">
+</p>
+
 If the screen is smaller or user wants to make it smaller then the mainpage takes some of the following forms.  
 <p align="center">
   <img width="400" height="350" src="imgs/smaller_1.png">
