@@ -1,6 +1,46 @@
-# Dice-Roller
-Soon...
+# Dice Roller
 
+### Dice Roller it's a two player game with dices
+
+Looking at the picture below which is the mainpage of the game there are some options which the two players should adjust.  
+
+<p align="center">
+   <img src="imgs/full_page.png">
+</p>
+
+1. #### Read the game instructions which can be found by pressing the second button (*Instructions*) on the top right.  
+
+   ```
+     a. Set the player names by clicking on Player 1 and Player 2.
+     b. Choose the disired winning score. If you don't, it will be set to 100 by default.
+     c. Roll the dices and watch for the rules. Press the Hold button when you have to.
+     d. A player looses his entire score when he rolls two 1's or two 6's.
+     e. The first player who will reach the winning score is the winner.
+     f. Game starts from Player 1 by default when the Roll button is pressed.
+   ```
+<p align="center">
+  <img src="imgs/instructions.png">
+</p>
+
+2. #### Set their names on Player1 and Player2 respectively by clicking on them.
+
+3. #### Choose the disired score by pressing the first button (*Winning Score*) on the top right. If the players don't set a score, then the score will be set to 100 by default.  
+   <p align="center">
+      <img src="imgs/set_score.png">
+   </p>
+
+4. #### Game starts from Player 1 by default when the **ROLL DICE** button is pressed.  
+
+5. #### The active player has a gray background. This player rolls the dice and continues to roll until the desired winning score is reached. If he rolls two 1's or two 6's then he loses his turn and at the same time loses the score he has won so far. To avoid this, he should press the **HOLD** button and hold the current scoring.  
+
+
+5. The first player who will reach the winning score is the winner.  
+
+If the screen is smaller or user wants to make it smaller then the mainpage takes some of the following forms.  
+<p align="center">
+  <img width="300" height="250" src="imgs/smaller_1.png">
+  <img width="300" height="250" src="imgs/smaller_2.png">
+</p>
 
 ## Author
 * **Konstantinos Thanos**
