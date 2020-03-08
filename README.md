@@ -38,8 +38,8 @@ Looking at the picture below which is the mainpage of the game there are some op
 
 If the screen is smaller or user wants to make it smaller then the mainpage takes some of the following forms.  
 <p align="center">
-  <img width="500" height="350" src="imgs/smaller_1.png">
-  <img width="500" height="350" src="imgs/smaller_2.png">
+  <img width="400" height="350" src="imgs/smaller_1.png">
+  <img width="400" height="350" src="imgs/smaller_2.png">
 </p>
 
 ## Author
