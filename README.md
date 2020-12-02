@@ -1,6 +1,7 @@
 # Dice Roller
 
 ### Dice Roller it's a two player game with dices
+Watch the game in action on this video : 
 
 Looking at the picture below which is the mainpage of the game there are some options which the two players should adjust.  
 
@@ -47,6 +48,8 @@ If the screen is smaller or user wants to make it smaller then the mainpage take
   <img width="400" height="350" src="imgs/smaller_1.png">
   <img width="400" height="350" src="imgs/smaller_2.png">
 </p>
+
+Watch the game in action on this video : 
 
 ## Author
 * **Konstantinos Thanos**
