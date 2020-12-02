@@ -5,7 +5,7 @@
 Looking at the picture below which is the mainpage of the game there are some options which the two players should adjust.  
 
 <p align="center">
-   <img src="imgs/full_page.png">
+   <img src="imgs/full.png">
 </p>
 
 1. #### Read the game instructions which can be found by pressing the second button (*Instructions*) on the top right.  
