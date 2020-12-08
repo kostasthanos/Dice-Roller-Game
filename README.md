@@ -1,4 +1,4 @@
-# Dice Roller
+# Dice Roller Game
 
 ### Dice Roller it's a two player game with dices
 Watch the game in action on this video : [Dice Roller Game](https://www.youtube.com/watch?v=AiqHsKFflec)
