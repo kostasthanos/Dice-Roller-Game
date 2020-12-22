@@ -30,14 +30,14 @@ Looking at the picture below (mainpage of the game) there are some options which
       <img src="imgs/set_score.png">
    </p>
 
-4. #### Game starts from Player 1 by default when the **ROLL DICE** button is pressed.  
+4. #### Game starts from Player1 by default when the **ROLL DICE** button is pressed.  
 
 5. #### The active player has a gray background. This player rolls the dice and continues to roll until the desired winning score is reached. If he rolls two 1's or two 6's then he loses his turn and at the same time loses the score he has won so far. To avoid this, he should press the **HOLD** button and hold the current score.  
 
 
 5. #### The first player who will reach the winning score is the winner.  
 
-Below we can see 2 photos. One is during the game and the other one is when Player2 has already won.
+Below are 2 photos. One is during the game and the other one is when Player1 has already won.
 <p align="center">
   <img src="imgs/playing.png">
   <img src="imgs/winner.png">
