@@ -3,7 +3,7 @@
 ### Dice Roller it's a two player game with dices
 Watch the game in action on this video : [Dice Roller Game](https://www.youtube.com/watch?v=AiqHsKFflec)
 
-Looking at the picture below which is the mainpage of the game there are some options which the two players should adjust.  
+Looking at the picture below (mainpage of the game) there are some options which the two players should adjust.  
 
 <p align="center">
    <img src="imgs/full.png">
