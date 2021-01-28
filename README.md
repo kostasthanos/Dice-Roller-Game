@@ -7,7 +7,7 @@ Watch the game in action on this video : [Dice Roller Game](https://www.youtube.
 Looking at the picture below (mainpage of the game) there are some options which the two players should adjust.  
 
 <p align="center">
-   <img src="imgs/full.png">
+   <img width="400" height="350" src="imgs/full.png">
 </p>
 
 1. #### Read the game instructions which can be found by pressing the second button (*Instructions*) on the top right.  
