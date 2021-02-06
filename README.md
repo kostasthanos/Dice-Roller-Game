@@ -39,10 +39,10 @@ Looking at the picture below (mainpage of the game) there are some options which
 
 5. #### The first player who will reach the winning score is the winner.  
 
-Below are 2 photos. One is during the game and the other one is when Player1 has already won.
+Below are 2 images. One is during the game and the other one is when Player1 has already won.
 <p align="center">
-  <img src="imgs/playing.png">
-  <img src="imgs/winner.png">
+  <img width="760" height="420" src="imgs/playing.png">
+  <img width="760" height="420" src="imgs/winner.png">
 </p>
 
 If the screen is smaller or user wants to make it smaller then the mainpage takes some of the following forms.  
