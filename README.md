@@ -22,7 +22,7 @@ Looking at the picture below (mainpage of the game) there are some options which
      f. Game starts from Player 1 by default when the Roll button is pressed.
    ```
 <p align="center">
-  <img width="700" height="300" src="imgs/instructions.png">
+  <img width="700" height="200" src="imgs/instructions.png">
 </p>
 
 2. #### Set their names on Player1 and Player2 respectively by clicking on them.
