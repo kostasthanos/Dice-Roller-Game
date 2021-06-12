@@ -1,7 +1,7 @@
 # Dice Roller Game
 
 ### Dice Roller it's a two player game with dices
-Watch the game in action on this video : [Dice Roller Game](https://www.youtube.com/watch?v=AiqHsKFflec)
+Watch the game in action on the Youtube [video](https://www.youtube.com/watch?v=AiqHsKFflec) or click on the image-link below.
 
 [![Dice Roller Game](http://img.youtube.com/vi/AiqHsKFflec/0.jpg)](https://www.youtube.com/watch?v=AiqHsKFflec "Dice Roller Game")
 
