@@ -51,7 +51,7 @@ If the screen is smaller or user wants to make it smaller then the mainpage take
   <img width="400" height="350" src="imgs/smaller_2.png">
 </p>
 
-Watch the game in action on this video : [Dice Roller Game](https://www.youtube.com/watch?v=AiqHsKFflec)
+Watch the game in action on this video : [Dice Roller Game](https://www.youtube.com/watch?v=AiqHsKFflec).
 
 ## Author
 * **Konstantinos Thanos**
